@@ -1,0 +1,26 @@
+.team-matches-container {
+  background-color: lightblue;
+  background-size: cover;
+  padding: 20px;
+}
+.team-banner-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+.team-banner {
+  height: 40vh;
+}
+.latest-match-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.latest-match-heading {
+  font-size: 15px;
+  color: #ffffff;
+  font-family: Bree Sherif;
+}

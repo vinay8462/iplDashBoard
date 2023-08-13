@@ -1,0 +1,39 @@
+.latestMatchCard {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  color: #ffffff;
+  font-family: Bree Serif;
+  background-size: cover;
+  margin: 20px;
+  width: 70vw;
+}
+.latest-img {
+  height: 30vh;
+  align-self: center;
+}
+.first-part {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.second-part {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.third-part {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.heading {
+  font-size: 15px;
+}
+.para {
+  font-size: 10px;
+}
